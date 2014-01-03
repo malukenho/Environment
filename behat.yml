@@ -8,3 +8,6 @@ default:
 wip:    
     filters:
         tags: "@wip"
+
+opa:
+    algo: "legal"
